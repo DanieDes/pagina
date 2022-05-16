@@ -1,0 +1,27 @@
+
+
+/*css*/
+.section__titulo {
+    text-align: center;
+    font-size: 40px;
+    color: #fb3319;
+}
+
+/*html*/
+<section class="info">
+                    <article class="info__columna">
+                        <img src="imagenes/GEAR.jpg" alt="" class="info__img">
+                        <h2 class="info__titulo">GEAR OF WAR</h2>
+                        <p class="info__txt">Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit nostrum quam fuga dolor libero ab ea odio explicabo aut? Tempora deleniti deserunt ex aspernatur unde non eligendi beatae debitis exercitationem.</p>
+                    </article>
+                    <article class="info__columna">
+                        <img src="imagenes/tombraider.jpg" alt="" class="info__img">
+                        <h2 class="info__titulo">TOMB RAIDER</h2>
+                        <p class="info__txt">Vero libero est quod eaque nam obcaecati fugiat, nemo perferendis error minus harum numquam facilis veniam neque quae quas sapiente veritatis ipsam nobis magni nisi minima? Assumenda facere adipisci maxime!</p>
+                    </article>
+                    <article class="info__columna">
+                        <img src="imagenes/warzone.jpg" alt="" class="info__img">
+                        <h2 class="info__titulo">COD WARZONE</h2>
+                        <p class="info__txt">Natus necessitatibus libero facere! Libero tempore, sapiente dolores laboriosam exercitationem porro in expedita ea, quae recusandae ipsum debitis, est ullam dignissimos quibusdam delectus explicabo. Ipsa optio possimus voluptates ea libero?</p>
+                    </article>
+                </section>
